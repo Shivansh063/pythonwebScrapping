@@ -16,7 +16,7 @@ var2 = data[1]
 # Swapping Values of Variables var1, var2
  
 var1,var2 = var2,var1
-print "Please wait until swapping is done" 
+print "Please wait until swapping complete" 
 time.sleep(2)
 
 
